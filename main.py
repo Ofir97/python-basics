@@ -9,5 +9,4 @@ shipping.calc_shipping()
 
 print('a')
 print('b')
-print('c')
 
