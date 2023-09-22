@@ -10,5 +10,3 @@ is_published = True
 print("Hello " + full_name)
 print(price)
 
-print('Hello WORLD!!!!!!!')
-
