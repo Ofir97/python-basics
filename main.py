@@ -8,4 +8,5 @@ print('*' * 10)  # expression
 shipping.calc_shipping()
 
 print('a')
+print('b')
 
